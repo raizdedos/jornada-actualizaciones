@@ -1,6 +1,6 @@
 {
   "version": "0.24",
   "build": 24,
-  "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada.zip",
+  "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada-0.24.zip",
   "notas": "Novedades: selector de año en la página de clientes; «Cerrar año…» en el menú Jornada (PDF por cliente y CSV del año en la carpeta Archivo); proyectos archivados (clic derecho › Archivar proyecto)."
 }
