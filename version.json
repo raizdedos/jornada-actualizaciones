@@ -1,6 +1,6 @@
 {
-  "version": "0.33",
-  "build": 33,
-  "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada-0.33.zip",
-  "notas": "Calendario: al seleccionar una sesión, el contador queda listo para reanudarla en su proyecto; el selector muestra un solo cliente/proyecto o «Todos»; línea roja de la hora actual en toda la semana, y al abrir o pulsar «Hoy» se muestra la hora en curso."
+  "version": "0.34",
+  "build": 34,
+  "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada-0.34.zip",
+  "notas": "Calendario: al pulsar en un hueco vacío, la barra del contador deja de tener seleccionado un proyecto o tarea y vuelve a «Elegir proyecto». Incluye también las novedades de la 0.33 (sesión seleccionada lista para reanudar, filtro de un solo proyecto, línea roja de la hora actual)."
 }
