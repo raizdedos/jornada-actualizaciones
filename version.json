@@ -1,6 +1,6 @@
 {
-  "version": "0.30",
-  "build": 30,
-  "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada-0.30.zip",
-  "notas": "Calendario: muestra el nombre del mes, el selector se llama «Proyecto», sin botones +/− (el zoom sigue con ⌘+ / ⌘− y pellizcando) y, al deslizar con dos dedos, las semanas se desplazan siguiendo el dedo."
+  "version": "0.31",
+  "build": 31,
+  "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada-0.31.zip",
+  "notas": "El deslizamiento lateral del calendario es algo más lento y suave, y el selector «Proyecto» tiene el mismo estilo gris que el selector de años."
 }
