@@ -1,0 +1,6 @@
+{
+  "version": "0.19",
+  "build": 19,
+  "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada.zip",
+  "notas": "Jornada se actualiza sola: a partir de ahora avisará cuando haya una versión nueva."
+}
