@@ -1,6 +1,6 @@
 {
-  "version": "0.28",
-  "build": 28,
-  "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada-0.28.zip",
-  "notas": "Ahora se pueden archivar también tareas y sesiones (clic derecho › Archivar, también con varias seleccionadas). Lo archivado o facturado se ve atenuado y el botón del contador queda desactivado."
+  "version": "0.29",
+  "build": 29,
+  "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada-0.29.zip",
+  "notas": "Al seleccionar una sesión archivada o facturada, el botón del contador queda desactivado (antes permitía empezar una sesión nueva en su tarea)."
 }
