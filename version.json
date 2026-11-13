@@ -1,6 +1,6 @@
 {
-  "version": "0.21",
-  "build": 21,
+  "version": "0.22",
+  "build": 22,
   "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada.zip",
-  "notas": "Calendario: las líneas de las horas se ven igual de suaves en High Sierra que en las versiones actuales de macOS."
+  "notas": "Corrige un cierre inesperado al apilar sesiones (arrastrar una sesión dentro de otra) en macOS High Sierra."
 }
