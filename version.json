@@ -1,6 +1,6 @@
 {
-  "version": "0.25",
-  "build": 25,
-  "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada-0.25.zip",
-  "notas": "Selecciona varias sesiones o intervalos (⇧ o ⌘ + clic) para sumarlos a otra sesión de una vez (arrastrándolos o con clic derecho › Unir sesiones seleccionadas) o para eliminarlos juntos; en el calendario, ⇧ o ⌘ + clic para eliminar varios registros. Selector de año en gris y precio como «€/h»."
+  "version": "0.26",
+  "build": 26,
+  "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada-0.26.zip",
+  "notas": "Los proyectos archivados se ven atenuados y quedan bloqueados como los facturados: no se pueden contar más horas en ellos (ni con el contador ni a mano) hasta desarchivarlos."
 }
