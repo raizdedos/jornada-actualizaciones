@@ -1,6 +1,6 @@
 {
-  "version": "0.27",
-  "build": 27,
-  "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada-0.27.zip",
-  "notas": "Con un proyecto, tarea o sesión facturados o archivados, el botón del contador aparece atenuado e inactivo (sin ventanas de aviso)."
+  "version": "0.28",
+  "build": 28,
+  "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada-0.28.zip",
+  "notas": "Ahora se pueden archivar también tareas y sesiones (clic derecho › Archivar, también con varias seleccionadas). Lo archivado o facturado se ve atenuado y el botón del contador queda desactivado."
 }
