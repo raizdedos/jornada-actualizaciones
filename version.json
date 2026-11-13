@@ -1,6 +1,6 @@
 {
-  "version": "0.19",
-  "build": 19,
+  "version": "0.20",
+  "build": 20,
   "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada.zip",
-  "notas": "Jornada se actualiza sola: a partir de ahora avisará cuando haya una versión nueva."
+  "notas": "Al detener el contador, Jornada se queda preparada sobre el mismo proyecto, tarea y sesión: pulsa REANUDAR (o la barra espaciadora) para seguir sin volver a elegirlo."
 }
