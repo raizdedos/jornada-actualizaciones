@@ -1,6 +1,6 @@
 {
-  "version": "0.31",
-  "build": 31,
-  "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada-0.31.zip",
-  "notas": "El deslizamiento lateral del calendario es algo más lento y suave, y el selector «Proyecto» tiene el mismo estilo gris que el selector de años."
+  "version": "0.33",
+  "build": 33,
+  "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada-0.33.zip",
+  "notas": "Calendario: al seleccionar una sesión, el contador queda listo para reanudarla en su proyecto; el selector muestra un solo cliente/proyecto o «Todos»; línea roja de la hora actual en toda la semana, y al abrir o pulsar «Hoy» se muestra la hora en curso."
 }
