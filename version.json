@@ -1,6 +1,6 @@
 {
-  "version": "0.34",
-  "build": 34,
-  "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada-0.34.zip",
-  "notas": "Calendario: al pulsar en un hueco vacío, la barra del contador deja de tener seleccionado un proyecto o tarea y vuelve a «Elegir proyecto». Incluye también las novedades de la 0.33 (sesión seleccionada lista para reanudar, filtro de un solo proyecto, línea roja de la hora actual)."
+  "version": "0.35",
+  "build": 35,
+  "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada-0.35.zip",
+  "notas": "Si no hay ningún proyecto, tarea o sesión elegidos, el botón del contador aparece atenuado e inactivo, en lugar de mostrar un aviso."
 }
