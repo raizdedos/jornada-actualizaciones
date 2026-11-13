@@ -1,6 +1,6 @@
 {
-  "version": "0.37",
-  "build": 37,
-  "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada-0.37.zip",
-  "notas": "Calendario: la cabecera de cada día muestra solo el día de la semana y el número, sin las horas contabilizadas."
+  "version": "0.38",
+  "build": 38,
+  "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada-0.38.zip",
+  "notas": "Calendario: vuelve la raya bajo el nombre y número de cada día de la semana, con el diseño de antes y sin las horas."
 }
