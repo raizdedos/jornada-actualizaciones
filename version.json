@@ -1,6 +1,6 @@
 {
-  "version": "0.26",
-  "build": 26,
-  "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada-0.26.zip",
-  "notas": "Los proyectos archivados se ven atenuados y quedan bloqueados como los facturados: no se pueden contar más horas en ellos (ni con el contador ni a mano) hasta desarchivarlos."
+  "version": "0.27",
+  "build": 27,
+  "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada-0.27.zip",
+  "notas": "Con un proyecto, tarea o sesión facturados o archivados, el botón del contador aparece atenuado e inactivo (sin ventanas de aviso)."
 }
