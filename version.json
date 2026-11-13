@@ -1,6 +1,6 @@
 {
-  "version": "0.35",
-  "build": 35,
-  "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada-0.35.zip",
-  "notas": "Si no hay ningún proyecto, tarea o sesión elegidos, el botón del contador aparece atenuado e inactivo, en lugar de mostrar un aviso."
+  "version": "0.36",
+  "build": 36,
+  "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada-0.36.zip",
+  "notas": "Página de clientes: al quedar sin nada seleccionado (pulsando en una zona vacía o tras archivar/desarchivar), el botón del contador vuelve a quedar desactivado."
 }
