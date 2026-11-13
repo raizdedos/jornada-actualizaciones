@@ -1,6 +1,6 @@
 {
-  "version": "0.20",
-  "build": 20,
+  "version": "0.21",
+  "build": 21,
   "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada.zip",
-  "notas": "Al detener el contador, Jornada se queda preparada sobre el mismo proyecto, tarea y sesión: pulsa REANUDAR (o la barra espaciadora) para seguir sin volver a elegirlo."
+  "notas": "Calendario: las líneas de las horas se ven igual de suaves en High Sierra que en las versiones actuales de macOS."
 }
