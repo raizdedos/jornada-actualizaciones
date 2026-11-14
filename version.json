@@ -1,6 +1,6 @@
 {
-  "version": "0.38",
-  "build": 38,
-  "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada-0.38.zip",
-  "notas": "Calendario: vuelve la raya bajo el nombre y número de cada día de la semana, con el diseño de antes y sin las horas."
+  "version": "0.39",
+  "build": 39,
+  "zip": "https://raw.githubusercontent.com/raizdedos/jornada-actualizaciones/main/Jornada-0.39.zip",
+  "notas": "Buscar actualizaciones ya no se queda sin responder: avisa si ya está buscando y, si Jornada no se puede cerrar, no instala nada a medias."
 }
